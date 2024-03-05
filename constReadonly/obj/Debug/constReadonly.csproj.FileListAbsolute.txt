@@ -1,0 +1,6 @@
+C:\Users\tural\source\repos\constReadonly\constReadonly\bin\Debug\constReadonly.exe
+C:\Users\tural\source\repos\constReadonly\constReadonly\bin\Debug\constReadonly.pdb
+C:\Users\tural\source\repos\constReadonly\constReadonly\obj\Debug\constReadonly.csproj.AssemblyReference.cache
+C:\Users\tural\source\repos\constReadonly\constReadonly\obj\Debug\constReadonly.csproj.CoreCompileInputs.cache
+C:\Users\tural\source\repos\constReadonly\constReadonly\obj\Debug\constReadonly.exe
+C:\Users\tural\source\repos\constReadonly\constReadonly\obj\Debug\constReadonly.pdb
